@@ -1,2 +1,2 @@
 # Pong
-Little bit Pygame
+A little bit Pygame
